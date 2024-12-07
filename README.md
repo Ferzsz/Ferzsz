@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm Muhammad Ferdiansyah Putra 👋
 
-<!--
-**Ferzsz/Ferzsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 **Currently studying** Information Systems and Technology at **Universitas Negeri Jakarta**.
+- 🌱 **Just starting out** in the world of technology and software development.
+- 💻 **Exploring** the basics of programming, system analysis, and web development.
+- 🚀 **Excited to learn** and grow in the field of technology, while contributing to projects and gaining hands-on experience.
+- 🧠 **Keen to learn** from others and improve my skills with every project.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- 📚 **Learn the fundamentals** of software development and system design.
+- 💡 **Work on personal projects** to gain practical experience.
+- 🤝 **Collaborate** with the tech community and contribute to open-source projects.
