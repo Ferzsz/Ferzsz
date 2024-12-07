@@ -8,7 +8,7 @@
 - 💡 **Work on personal projects** to gain practical experience.
 - 🤝 **Collaborate** with the tech community and contribute to open-source projects.
 
-## Languages I'm Learning
+## Technologies I'm Learning
 - 🖥️ **JavaScript**
 - 🌐 **HTML**
 - 🎨 **CSS**
