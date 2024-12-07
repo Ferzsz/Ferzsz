@@ -1,5 +1,3 @@
-# Hi there! I'm Muhammad Ferdiansyah Putra 👋
-
 ## About Me
 - 🎓 **Currently studying** Information Systems and Technology at **Universitas Negeri Jakarta**.
 - 🌱 **A beginner in web development**, currently learning **HTML**, **CSS**, and **JavaScript**.
