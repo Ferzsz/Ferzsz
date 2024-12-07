@@ -9,9 +9,8 @@
 - 🤝 **Collaborate** with the tech community and contribute to open-source projects.
 
 ## Technologies I'm Learning
-- 🖥️ **JavaScript**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ☕ **Java**
-- 🐍 **Python**
-- 📓 **Jupyter Notebook**
+![Logo](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+![Logo](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
+![Logo](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
+![Logo](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
+![Logo](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)
