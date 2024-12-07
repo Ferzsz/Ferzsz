@@ -2,13 +2,13 @@
 
 ## About Me
 - 🎓 **Currently studying** Information Systems and Technology at **Universitas Negeri Jakarta**.
-- 🌱 **Just starting out** in the world of programming, system analysis, and web development.
-- 🚀 **Excited to learn** and grow in the field of technology, while contributing to projects and gaining hands-on experience.
+- 🌱 **A beginner in web development**, currently learning **HTML**, **CSS**, and **JavaScript**.
+- 🚀 **Excited to start** building websites and improving my skills in front-end development.
 
 ## My Goals
-- 📚 **Learn the fundamentals** of software development and system design.
-- 💡 **Work on personal projects** to gain practical experience.
-- 🤝 **Collaborate** with the tech community and contribute to open-source projects.
+- 📚 **Learn the basics** of **HTML** to create simple and clean web pages.
+- 🎨 **Master the fundamentals** of **CSS** to style websites and make them look attractive.
+- 🖥️ **Get hands-on experience** with **JavaScript** to add interactivity to websites and understand dynamic web development.
 
 ## Languages I'm Learning
 - 🖥️ **JavaScript**
